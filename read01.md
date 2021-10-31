@@ -47,6 +47,8 @@ const flatValues = data.reduce((total, value) => {
 
 # Superagent()
 
+![Superagent](https://image.slidesharecdn.com/2014-03-13-fluent-140312172643-phpapp01/95/in-pursuit-of-the-holy-grail-building-isomorphic-javascript-apps-13-638.jpg?cb=1394716889)
+
 1. superagent with Promise :
 
 ```javascript
@@ -71,6 +73,7 @@ async function test() {
 
 # Promises
 
+![Promises](https://tutorial.techaltum.com/images/javascript-promise.jpg)
 JavaScript works well with imperative and synchronous code but some data like fetching data over the network, could take a while to be available.
 
 **The purpose of using Promises is encapsulate the asynchronicity and allow function handling asynchronous operations to still look synchronous**
@@ -93,7 +96,7 @@ var promise = new Promise(function (resolve, reject) {
 ---
 
 **Are all callback functions considered to be Asynchronous?**
-
+![callback functions](https://www.tutsmake.com/wp-content/uploads/2020/05/Callback-Function-JavaScript.jpeg)
 Callbacks that you call yourself are regular function calls, which are always synchronous and just regular functions, and they don't know or care whether they're going to be called asynchronously or not but in the same time a callback can be used synchronously or asynchronously.
 
 For a function to be asynchronous it needs to perform an asynchronous operation like :
