@@ -90,14 +90,15 @@ var promise = new Promise(function (resolve, reject) {
 });
 ```
 
-------------------<!-- markdownlint-capture -->
+---
+
 **Are all callback functions considered to be Asynchronous?**
 
 Callbacks that you call yourself are regular function calls, which are always synchronous and just regular functions, and they don't know or care whether they're going to be called asynchronously or not but in the same time a callback can be used synchronously or asynchronously.
 
 For a function to be asynchronous it needs to perform an asynchronous operation like :
 
-* timer functions setTimeout, setInterval
-* special functions nextTick, setImmediate
-* performing I/O (listening to network, querying a database, reading or writing from a resource)
-* subscribing to an event
+- timer functions setTimeout, setInterval
+- special functions nextTick, setImmediate
+- performing I/O (listening to network, querying a database, reading or writing from a resource)
+- subscribing to an event
