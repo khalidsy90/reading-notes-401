@@ -1,5 +1,6 @@
 # Node Ecosystem, TDD, CI/CD
 
+![](https://cd.foundation/wp-content/uploads/sites/78/2020/09/devops.png)
 **Test Driven Development**
 
 Test driven development (TDD) is a software development process that has the developer writing a test, failing it first, then writing code that causes that test to pass. TDD is a preferred method for writing code “because it is the simplest way to achieve both good quality code and good test coverage
