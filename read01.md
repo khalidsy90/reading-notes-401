@@ -1,3 +1,15 @@
+# Node Ecosystem, TDD, CI/CD
+
+**Test Driven Development**
+
+Test driven development (TDD) is a software development process that has the developer writing a test, failing it first, then writing code that causes that test to pass. TDD is a preferred method for writing code “because it is the simplest way to achieve both good quality code and good test coverage
+
+**Continuous integration (CI) and continuous delivery (CD)**
+
+Continuous integration is a set of practices that teams of developers use to implement small changes and merge into a shared repository frequently. Continuous Delivery (CD) is the process of deploying software in short cycles by ensuring that software can be deployed at any time.
+
+---
+
 # Array.map()
 
 Sometimes we may need to take an array and apply some procedure to its elements so that you get a new array with modified elements.
