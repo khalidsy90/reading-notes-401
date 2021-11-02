@@ -9,7 +9,7 @@ This site contains summaries of Code 301
 | **Pre-Work**     | [Link](read00.md)  |
 | **Class01**      | [Link](read01.md)  |
 | **Class02**      | [Link](read02.md)  |
-| **Class**        | [Link](Class04.md) |
+| **Class03**      | [Link](read03.md)  |
 | **Class**        | [Link](Class05.md) |
 | **Class**        | [Link](Class06.md) |
 | **Class**        | [Link](Class07.md) |
