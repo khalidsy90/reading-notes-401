@@ -13,7 +13,7 @@ This site contains summaries of Code 301
 | **Class04**      | [Link](read04.md)     |
 | **linkedList**   | [Link](linkedList.md) |
 | **Class06**      | [Link](read06.md)     |
-| **Class**        | [Link](Class08.md)    |
+| **Class07**      | [Link](read07.md)     |
 | **Class**        | [Link](Class09.md)    |
 | **Class**        | [Link](Class10.md)    |
 | **Class**        | [Link](Class11.md)    |
