@@ -17,5 +17,5 @@ This site contains summaries of Code 301
 | **Class08**         | [Link](read08.md)     |
 | **Class09**         | [Link](read09.md)     |
 | **Stacks & Queues** | [Link](read10.md)     |
+| **Class11**         | [Link](read11.md)     |
 | **Class12**         | [Link](read12.md)     |
-| **Class**           | [Link](Class13.md)    |
