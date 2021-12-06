@@ -27,3 +27,4 @@ This site contains summaries of Code 301
 | **Class18**         | [Link](read18.md)     |
 | **Class19**         | [Link](read19.md)     |
 | **Class26**         | [Link](read26.md)     |
+| **Class27**         | [Link](read27.md)     |
