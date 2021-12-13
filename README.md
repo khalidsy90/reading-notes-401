@@ -32,3 +32,4 @@ This site contains summaries of Code 301
 | **Classs29**        | [Link](read29.md)     |
 | **Classs30**        | [Link](read30.md)     |
 | **Classs31**        | [Link](read31.md)     |
+| **Classs32**        | [Link](read32.md)     |
