@@ -41,3 +41,4 @@ This site contains summaries of Code 301
 | **Classs38**        | [Link](read38.md)     |
 | **Classs39**        | [Link](read39.md)     |
 | **Classs41**        | [Link](read41.md)     |
+| **Classs42**        | [Link](read42.md)     |
